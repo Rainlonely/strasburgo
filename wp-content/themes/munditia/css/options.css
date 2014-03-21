@@ -316,23 +316,12 @@ a.button.loading::before, button.button.loading::before, input.button.loading::b
 --------------------------------------
 ------------BOXED---------------------
 -----------------------------------*/
- 
- header,.aq-block,.outerpagewrap,.mainwrap,.pagewrap{background:none !important;}
-header,.aq-block,.outerpagewrap,.mainwrap,.pagewrap{background-color:#fff !important;}
-@media screen and (min-width:1220px){
-body {width:1220px !important;margin:0 auto !important;border:1px solid #eee !important;}
-.top-nav ul{margin-right: -21px !important;}
-.mainwrap.shop {float:none;}
-.pagenav.fixedmenu { width: 1220px !important;}
-.bottom-support-tab,.totop{right:5px;}
-
- 	body {
+	body, .cf, .mainwrap, .post-full-width, .titleborderh2, .sidebar  {
 	background:#fff   !important; 
 	}
 	
-	
-}
-
+ 
+ 
 /* ***********************
 --------------------------------------
 ------------RESPONSIVE MODE----------
