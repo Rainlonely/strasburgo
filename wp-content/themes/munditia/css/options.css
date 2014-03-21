@@ -316,10 +316,6 @@ a.button.loading::before, button.button.loading::before, input.button.loading::b
 --------------------------------------
 ------------BOXED---------------------
 -----------------------------------*/
-	body, .cf, .mainwrap, .post-full-width, .titleborderh2, .sidebar  {
-	background:#fff   !important; 
-	}
-	
  
  
 /* ***********************
