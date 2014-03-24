@@ -106,13 +106,13 @@
 						}?>	
 					</div>	
 					<!-- header shop block -->
-					<div class = "header-shop">
+					<!-- <div class = "header-shop">
 						<?php
 						if (function_exists( 'is_woocommerce' ) ) { 
 							pmc_cartShow();
 						}	
 						?>
-					</div>
+					</div> -->
 				</div>
 				<!-- main menu -->
 				<div class="pagenav">
