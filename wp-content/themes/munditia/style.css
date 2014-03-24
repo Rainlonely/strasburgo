@@ -1420,7 +1420,7 @@ li.empty.cart {background: url(images/shopping-cart-big.png) no-repeat 10px 10px
 .has-sub-menu {}
 .menu .current-menu-ancestor{}
 .menu .current-menu-ancestor.has-sub-menu {}
-.menu > li a strong:after{content:  "/"; color:#121212; padding-left:15px;font-size:20px;}
+.menu > li a strong:after{content:  ""; color:#121212; padding-left:15px;font-size:20px;}
 .menu > li:last-child a strong:after {display:none;}
 .fixedmenu .current-menu-ancestor.has-sub-menu:before {display:none;}
 .menu .container {
@@ -2125,7 +2125,7 @@ audio {width: 598px;}
 .blogpostcategory h2, .singledefult h2 {margin: 0px 35px 0px 0px;}
 .blogpostcategory .post-meta {padding-top:3px !important;text-transform:uppercase;font-size:14px;}
 .blogpostcategory .post-meta a:hover {text-decoration:underline;}
-.blogpostcategory {position:relative; float:left;width: 800px;  margin-bottom: 40px; padding: 0;   height:auto !important; border-bottom: double #ddd;}
+.blogpostcategory {position:relative; float:left;width: 800px;  margin-bottom: 40px; padding: 0;   height:auto !important; border-bottom: double #004505;}
 .blogpostcategory .posted-date, .singledefult .posted-date { position:relative; float: left;   z-index:1;margin-right:20px;}
 .posted-date a:hover, .categoryblog a:hover {text-decoration:underline;}
 .blogpostcategory .meta{margin:0px 0 10px 0px; width:100%; float:left;}

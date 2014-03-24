@@ -11,7 +11,7 @@ body {
 	line-height: 1.65em !important;
 	letter-spacing: normal;
 }
-::selection { background: #e14f4f; color:#fff; text-shadow: none; }
+::selection { background: #004505; color:#fff; text-shadow: none; }
 h1,h2,h3,h4,h5,h6, .blogpostcategory .posted-date p, .team .title, .term-description p, .titleBottom{
 	font-family: Roboto Slab !important;
 			font-weight: normal;
@@ -59,8 +59,8 @@ h6 {
 h2.title a {color:#121212;}
 a, a:active, a:visited, .footer_widget .widget_links ul li a{color: #121212;}	
 .widget_nav_menu ul li a  {color: #121212;}
-a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{color: #e14f4f;}
-.product-remove a:hover {color: #e14f4f !important;}
+a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{color: #004505;}
+.product-remove a:hover {color: #004505 !important;}
 .item3 h3, .item4 h3, .item3 h3 a, .item4 h3 a, .item3 h4, .item4 h4 {color:#121212;}
 
 
@@ -99,12 +99,12 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 ------------JUST FOR THE LIVE DEMO COLORS PREVIEW----------
 --------------------------------------
 *********************** */
-.slotholder img, .iosSlider .slider .item .desc a {background:#e14f4f !important;}
-.ui-progressbar-value {background-color:#e14f4f !important;}
+.slotholder img, .iosSlider .slider .item .desc a {background:#004505 !important;}
+.ui-progressbar-value {background-color:#004505 !important;}
 
 
-.aq-posts-block .postDate, .item3 .portDate {background:#e14f4f;}
-.aq-posts-block .postDate, .item3 .portDate {background: rgba(225,79,79,);}
+.aq-posts-block .postDate, .item3 .portDate {background:#004505;}
+.aq-posts-block .postDate, .item3 .portDate {background: rgba(0,69,5,);}
 .slider-category .anythingBase,#nslider img, .related h3, .projectdescription h3, .portsingle .portfolio h3, .titleborderh,
 .socialsingle h2, .portCategory3 a {
 	background:#fff   !important;
@@ -140,18 +140,18 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 .page .homerecent .bx-next:hover,.page .homerecent.post .bx-prev:hover, .bx-prev i:hover, .bx-next i:hover, #footer span, .infotext-title-small, .wp-pagenavi span.current,
 .rightContentSP .single_add_to_cart_button:hover, .pagewrap span, .one_third.categories mark, .team .role, .aq-block-aq_twitter_block .entry-content a,
 .support-widget .fa-chevron-down:hover, #buddypress a.bp-primary-action span, #buddypress #reply-title small a span, #buddypress div.item-list-tabs ul li a span 
-{color:#e14f4f !important;}
+{color:#004505 !important;}
 
 
 .socialsingle h2 span, .homerecent h2 span, .advertise h2 span, .related h3 span, .portfolio h3 span, .portsingleshare span, .titleborderh span,
 .blogpostcategory .meta .category a, .singledefult .meta .category a, .homerecent .category a, .portcategories a
-{background:#e14f4f !important; color: #ffffff !important;text-shadow:0 1px 0 rgba(0,0,0,0);padding:2px 6px 3px 6px; }
+{background:#004505 !important; color: #ffffff !important;text-shadow:0 1px 0 rgba(0,0,0,0);padding:2px 6px 3px 6px; }
 .widget del .amount {background:none !important;}
 
-.menu ul li a:before, .menu .pmcbig ul.sub-menu li li a:before  {border:2px solid #e14f4f;}
-.textSlide h1.underline {border-bottom:6px solid #e14f4f;}
+.menu ul li a:before, .menu .pmcbig ul.sub-menu li li a:before  {border:2px solid #004505;}
+.textSlide h1.underline {border-bottom:6px solid #004505;}
 
-.searchTop #searchsubmit:hover {background: #e14f4f url(images/topSocialIcons.png) no-repeat -219px -1px;}
+.searchTop #searchsubmit:hover {background: #004505 url(images/topSocialIcons.png) no-repeat -219px -1px;}
 /* ***********************
 --------------------------------------
 ------------BOX COLOR----------
@@ -180,11 +180,11 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
  #buddypress .comment-reply-link:hover, #buddypress button,#buddypress a.button,#buddypress input[type=submit],#buddypress input[type=button],#buddypress input[type=reset],
 #buddypress ul.button-nav li a,#buddypress div.generic-button a,#buddypress .comment-reply-link, a.bp-title-button, .support-widget input[type="submit"],
 #buddypress div.item-list-tabs ul li.selected a,#buddypress div.item-list-tabs ul li.current a
-{background:#e14f4f !important;}
- .homerecent .overdefult, .item3 .overdefult{background: rgba(225,79,79,0.8) url(images/plusIcon.png) no-repeat 160px 140px;}
-.blogpostcategory .overdefultlink{background: rgba(225,79,79,0.8) url(images/plusIcon.png) no-repeat 370px 165px;}
- .item4 .overdefult {background: rgba(225,79,79,0.8) url(images/plusIcon.png) no-repeat 105px 85px;}
-.rightContentSP .single_add_to_cart_button:hover {background:none !important;border:2px solid #e14f4f }
+{background:#004505 !important;}
+ .homerecent .overdefult, .item3 .overdefult{background: rgba(0,69,5,0.8) url(images/plusIcon.png) no-repeat 160px 140px;}
+.blogpostcategory .overdefultlink{background: rgba(0,69,5,0.8) url(images/plusIcon.png) no-repeat 370px 165px;}
+ .item4 .overdefult {background: rgba(0,69,5,0.8) url(images/plusIcon.png) no-repeat 105px 85px;}
+.rightContentSP .single_add_to_cart_button:hover {background:none !important;border:2px solid #004505 }
 /* ***********************
 --------------------------------------
 ------------BOX FONT COLOR----------
@@ -214,17 +214,17 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 .leftContentSP .images.imagesSP .prevbutton.port, .leftContentSP .images.imagesSP .nextbutton.port, .shop_table.cart.wishlist_table .product-add-to-cart a,
 #commentform #respond #commentform input#submit, #respond #commentform input#submit, .aq-block-aq_twitter_block .intent-meta a, .woocommerce a.button,
 .cart-collaterals-shipping .button, mark  
-{background:#e14f4f ;}
+{background:#004505 ;}
 
-.widget_tag_cloud a:hover, .widget_product_tag_cloud a:hover{background:#e14f4f !important;}
+.widget_tag_cloud a:hover, .widget_product_tag_cloud a:hover{background:#004505 !important;}
 
  #content input.button,
  #respond input#submit:hover, #content input.button:hover
-  {background:#e14f4f; text-shadow:0 1px 0 rgba(0,0,0,0);}
+  {background:#004505; text-shadow:0 1px 0 rgba(0,0,0,0);}
 .blogpostcategory .comment-inside a, .singledefult .comment-inside a, .blogpostcategory .date-inside,.singledefult .date-inside,textSlide .quote, textSlide .quote2 {color: #ffffff !important; text-shadow:0 1px 0 rgba(0,0,0,0);}
 .textSlide .button, .textSlide .box {text-shadow:none;}
-.iosSlider .prevButton, a.nivo-prevNav{background:#e14f4f url(images/slideshowArrows.png) no-repeat 16px 19px !important;}
-.iosSlider .nextButton, a.nivo-nextNav{background:#e14f4f url(images/slideshowArrows.png) no-repeat -46px 19px !important;}
+.iosSlider .prevButton, a.nivo-prevNav{background:#004505 url(images/slideshowArrows.png) no-repeat 16px 19px !important;}
+.iosSlider .nextButton, a.nivo-nextNav{background:#004505 url(images/slideshowArrows.png) no-repeat -46px 19px !important;}
 
 
 
@@ -233,13 +233,13 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 ------------MAIN BORDER COLOR----------
 --------------------------------------
 *********************** */
-#logo a, .recentborder,.item4 .recentborder, .item3 .recentborder,.afterlinehome,.borderLineLeft, .borderLineLeftSlideshow  {border-color:#e14f4f ;}
-.featured-circles:hover {border: 2px solid rgba(225,79,79,0.9);}
-.featured-circles {border-top:2px solid rgba(225,79,79,0.9);border-bottom:2px solid rgba(225,79,79,0.9);}
-.products-both .tabsshort .ui-tabs-active, .homerecent.SP h3.h3border, .portsingle h3.h3border{border-top:6px solid #e14f4f;}
-.homerecent .productR .recentCart a:hover {border:2px solid #e14f4f;}
-.gototop:hover {background-color:rgba(225,79,79,0.75) !important;}
-.widget-line, .advertise li:hover  {border-bottom:3px solid #e14f4f; }
+#logo a, .recentborder,.item4 .recentborder, .item3 .recentborder,.afterlinehome,.borderLineLeft, .borderLineLeftSlideshow  {border-color:#004505 ;}
+.featured-circles:hover {border: 2px solid rgba(0,69,5,0.9);}
+.featured-circles {border-top:2px solid rgba(0,69,5,0.9);border-bottom:2px solid rgba(0,69,5,0.9);}
+.products-both .tabsshort .ui-tabs-active, .homerecent.SP h3.h3border, .portsingle h3.h3border{border-top:6px solid #004505;}
+.homerecent .productR .recentCart a:hover {border:2px solid #004505;}
+.gototop:hover {background-color:rgba(0,69,5,0.75) !important;}
+.widget-line, .advertise li:hover  {border-bottom:3px solid #004505; }
 /* ***********************
 --------------------------------------
 ------------BODY COLOR----------
@@ -257,7 +257,7 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 --------------------------------------
 *********************** */
 
-.menu li:hover ul {border-bottom: 5px solid #e14f4f;}
+.menu li:hover ul {border-bottom: 5px solid #004505;}
 .menu li ul li a, .item4 h4 a,  .homerecent .category a, .item3 h4 a
 {	font-family: Roboto, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; }
 .menu > li a {	font-family: Roboto Slab, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; color:#121212;letter-spacing: normal;}
@@ -272,11 +272,11 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 .showpostpostcontent h1 a {color:#121212;}
  .page .homerecent.post .bx-next:hover, #yith-wcwl-form table.cart a.remove:hover,
 .postcontent.port .blogsingleimage .nextbutton.port, .postcontent.port .blogsingleimage .prevbutton.port 
-{ background-color:#e14f4f !important; }
+{ background-color:#004505 !important; }
 .blogpost .datecomment a, .content ol.commentlist li .comment-author .fn a{color:#595959;}
-.blogpost .datecomment a:hover, .tags a:hover, .content ol.commentlist li .comment-author .fn a:hover{ color:#e14f4f; }
+.blogpost .datecomment a:hover, .tags a:hover, .content ol.commentlist li .comment-author .fn a:hover{ color:#004505; }
 .comment-author .fn a{font-family: Roboto Slab !important;}
-.image-gallery, .gallery-item { border: 2px dashed #e14f4f;}
+.image-gallery, .gallery-item { border: 2px dashed #004505;}
 .blogpostcategory .posted-date p, .singledefult .posted-date p{font-family: Roboto, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important;text-shadow:0 1px 0 rgba(0,0,0,0);}
 .pagecontent h1, .pagecontent p, .pagecontentContent #breadcrumb {text-shadow:0 1px 0 rgba(0,0,0,0);}
 
@@ -287,7 +287,7 @@ a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover{c
 --------------------------------------
 *********************** */
 .button_purche_right_top,.button_download_right_top,.button_search_right_top {font-family: Roboto Slab !important;color:#121212;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);}
-.button_purche:hover,.button_download:hover,.button_search:hover {color:#e14f4f !important;}
+.button_purche:hover,.button_download:hover,.button_search:hover {color:#004505 !important;}
 .ribbon_center_red a, .ribbon_center_blue a, .ribbon_center_white a, .ribbon_center_yellow a, .ribbon_center_green a {font-family: Roboto Slab !important;}
 a.button.loading::before, button.button.loading::before, input.button.loading::before {content: "";position: absolute;height: 32px;width: 32px;bottom: 20px;left: 150px;text-indent: 0;background:url(images/loading.gif) no-repeat;}
 
