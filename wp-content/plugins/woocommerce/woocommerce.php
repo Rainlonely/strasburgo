@@ -16,10 +16,13 @@
  * @category Core
  * @author WooThemes
  */
+
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
+$locale = "zh_CN";
 if ( ! class_exists( 'WooCommerce' ) ) :
 
 /**
